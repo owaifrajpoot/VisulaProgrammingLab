@@ -1,2 +1,0 @@
-# VisulaProgrammingLab
-All Lab Task 
